@@ -1,12 +1,14 @@
 using BuberBreakfast.Contracts.Breakfast;
+using BuberBreakfast.Services.Breakfasts;
 using Microsoft.AspNetCore.Mvc;
 
 namespace BuberBreakfast.Controllers;
 
 [ApiController]
-[Route("[ controller]")]
+[Route("[controller]")]
 public class BreakfastsController : ControllerBase
 {
+    private readonly IBreakfastService _breakfastService;
     [HttpPost("/breakfast")]
     public IActionResult CreateBreakfast(CreateBreakfastRequest request)
     {
