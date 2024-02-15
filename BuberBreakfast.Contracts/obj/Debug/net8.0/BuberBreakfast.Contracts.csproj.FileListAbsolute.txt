@@ -1,0 +1,12 @@
+C:\Users\4129rk\Code\ASP_NET Exersice file\BuberBreakfast\BuberBreakfast.Contracts\bin\Debug\net8.0\BuberBreakfast.Contracts.deps.json
+C:\Users\4129rk\Code\ASP_NET Exersice file\BuberBreakfast\BuberBreakfast.Contracts\bin\Debug\net8.0\BuberBreakfast.Contracts.dll
+C:\Users\4129rk\Code\ASP_NET Exersice file\BuberBreakfast\BuberBreakfast.Contracts\bin\Debug\net8.0\BuberBreakfast.Contracts.pdb
+C:\Users\4129rk\Code\ASP_NET Exersice file\BuberBreakfast\BuberBreakfast.Contracts\obj\Debug\net8.0\BuberBreakfast.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\4129rk\Code\ASP_NET Exersice file\BuberBreakfast\BuberBreakfast.Contracts\obj\Debug\net8.0\BuberBreakfast.Contracts.AssemblyInfoInputs.cache
+C:\Users\4129rk\Code\ASP_NET Exersice file\BuberBreakfast\BuberBreakfast.Contracts\obj\Debug\net8.0\BuberBreakfast.Contracts.AssemblyInfo.cs
+C:\Users\4129rk\Code\ASP_NET Exersice file\BuberBreakfast\BuberBreakfast.Contracts\obj\Debug\net8.0\BuberBreakfast.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\4129rk\Code\ASP_NET Exersice file\BuberBreakfast\BuberBreakfast.Contracts\obj\Debug\net8.0\BuberBreakfast.Contracts.sourcelink.json
+C:\Users\4129rk\Code\ASP_NET Exersice file\BuberBreakfast\BuberBreakfast.Contracts\obj\Debug\net8.0\BuberBreakfast.Contracts.dll
+C:\Users\4129rk\Code\ASP_NET Exersice file\BuberBreakfast\BuberBreakfast.Contracts\obj\Debug\net8.0\refint\BuberBreakfast.Contracts.dll
+C:\Users\4129rk\Code\ASP_NET Exersice file\BuberBreakfast\BuberBreakfast.Contracts\obj\Debug\net8.0\BuberBreakfast.Contracts.pdb
+C:\Users\4129rk\Code\ASP_NET Exersice file\BuberBreakfast\BuberBreakfast.Contracts\obj\Debug\net8.0\ref\BuberBreakfast.Contracts.dll
