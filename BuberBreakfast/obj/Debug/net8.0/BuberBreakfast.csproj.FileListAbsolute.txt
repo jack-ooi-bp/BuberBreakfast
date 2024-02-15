@@ -1,0 +1,14 @@
+C:\Users\4129rk\Code\ASP_NET Exersice file\BuberBreakfast\BuberBreakfasts\obj\Debug\net8.0\BuberBreakfast.csproj.AssemblyReference.cache
+C:\Users\4129rk\Code\ASP_NET Exersice file\BuberBreakfast\BuberBreakfasts\obj\Debug\net8.0\BuberBreakfast.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\4129rk\Code\ASP_NET Exersice file\BuberBreakfast\BuberBreakfasts\obj\Debug\net8.0\BuberBreakfast.AssemblyInfoInputs.cache
+C:\Users\4129rk\Code\ASP_NET Exersice file\BuberBreakfast\BuberBreakfasts\obj\Debug\net8.0\BuberBreakfast.AssemblyInfo.cs
+C:\Users\4129rk\Code\ASP_NET Exersice file\BuberBreakfast\BuberBreakfasts\obj\Debug\net8.0\BuberBreakfast.csproj.CoreCompileInputs.cache
+C:\Users\4129rk\Code\ASP_NET Exersice file\BuberBreakfast\BuberBreakfasts\obj\Debug\net8.0\BuberBreakfast.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\4129rk\Code\ASP_NET Exersice file\BuberBreakfast\BuberBreakfasts\obj\Debug\net8.0\BuberBreakfast.sourcelink.json
+C:\Users\4129rk\Code\ASP_NET Exersice file\BuberBreakfast\BuberBreakfast\obj\Debug\net8.0\BuberBreakfast.csproj.AssemblyReference.cache
+C:\Users\4129rk\Code\ASP_NET Exersice file\BuberBreakfast\BuberBreakfast\obj\Debug\net8.0\BuberBreakfast.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\4129rk\Code\ASP_NET Exersice file\BuberBreakfast\BuberBreakfast\obj\Debug\net8.0\BuberBreakfast.AssemblyInfoInputs.cache
+C:\Users\4129rk\Code\ASP_NET Exersice file\BuberBreakfast\BuberBreakfast\obj\Debug\net8.0\BuberBreakfast.AssemblyInfo.cs
+C:\Users\4129rk\Code\ASP_NET Exersice file\BuberBreakfast\BuberBreakfast\obj\Debug\net8.0\BuberBreakfast.csproj.CoreCompileInputs.cache
+C:\Users\4129rk\Code\ASP_NET Exersice file\BuberBreakfast\BuberBreakfast\obj\Debug\net8.0\BuberBreakfast.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\4129rk\Code\ASP_NET Exersice file\BuberBreakfast\BuberBreakfast\obj\Debug\net8.0\BuberBreakfast.sourcelink.json
