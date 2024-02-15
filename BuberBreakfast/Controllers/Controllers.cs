@@ -1,3 +1,4 @@
+using BuberBreakfast.Contracts.Breakfast;
 using Microsoft.AspNetCore.Mvc;
 
 namespace BuberBreakfast.Controllers;
