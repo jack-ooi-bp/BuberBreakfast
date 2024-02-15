@@ -1,5 +1,6 @@
-namespace BuberBreakfast.Contracts.Breakfast
-public record BreakfastResponse(
+namespace BuberBreakfasts.Contracts.Breakfasts
+
+public record UpsertBreakfastResponse(
     Guid Id,
     string Name,
     string Description,
