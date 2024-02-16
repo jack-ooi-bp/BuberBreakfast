@@ -6,7 +6,7 @@ var builder = WebApplication.CreateBuilder(args);
 
 {
     builder.Services.AddControllers();
-    builder.Services.AddSingleton<IBreakfastService, BreakfastService>();
+    builder.Services.AddScoped<IBreakfastService, BreakfastService>();
 }
 
 var app = builder.Build();
