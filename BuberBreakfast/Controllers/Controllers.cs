@@ -1,4 +1,5 @@
 using BuberBreakfast.Contracts.Breakfast;
+using BuberBreakfast.Models;
 using BuberBreakfast.Services.Breakfasts;
 using Microsoft.AspNetCore.Mvc;
 
@@ -43,6 +44,7 @@ public class BreakfastsController : ControllerBase
     [HttpGet("/breakfast/{id:guid}")]
     public IActionResult GetBreakfast(Guid id)
     {
+        Breakfast breakfast = _breakfastService.GetBreakfast(id);
         return Ok(id);
     }
 
